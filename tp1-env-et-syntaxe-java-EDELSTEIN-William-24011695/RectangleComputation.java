@@ -11,5 +11,6 @@ public class RectangleComputation {  // Save as "RectangleComputation.java"
       // print les résultats
       
      System.out.println("Le périmètre est " + perimeter +" et l'aire est "+ area);
+	System.out.println("nig");
    }
 }
